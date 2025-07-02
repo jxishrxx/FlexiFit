@@ -1,0 +1,76 @@
+﻿Muscle Group,Exercise,Difficulty Rating (Energy Consumption / 5),min reps,max reps,sets
+Chest,Bench Press,4,8,12,4
+Chest,Push-Ups,2,12,15,3
+Chest,Dumbbell Flyes,3,10,12,3
+Chest,Incline Dumbbell Press,4,8,12,3
+Chest,Chest Dips,5,6,12,3
+Chest,Pec Deck Machine,2,10,15,3
+Chest,Cable Crossover,3,10,12,3
+Chest,Decline Bench Press,4,8,12,3
+Back,Pull-Ups,5,6,10,4
+Back,Lat Pulldown,3,8,12,4
+Back,Deadlift,5,5,8,4
+Back,Bent Over Rows,4,8,12,3
+Back,T-Bar Row,4,8,10,3
+Back,Dumbbell Row,3,10,12,3
+Back,Seated Cable Row,3,10,12,3
+Back,Inverted Rows,3,8,12,3
+Back,Face Pulls,2,12,15,3
+Legs,Squats,4,8,12,4
+Legs,Lunges,3,10,15,3
+Legs,Leg Press,4,8,12,4
+Legs,Romanian Deadlift,4,8,12,4
+Legs,Bulgarian Split Squat,5,8,10,3
+Legs,Leg Curl,3,10,15,3
+Legs,Calf Raises,2,15,20,3
+Legs,Step-Ups,3,10,12,3
+Legs,Hack Squat,4,8,12,3
+Legs,Front Squat,5,6,10,3
+Legs,Sumo Deadlift,4,5,8,3
+Shoulders,Overhead Press,4,8,12,4
+Shoulders,Lateral Raises,2,12,15,3
+Shoulders,Front Raises,3,10,12,3
+Shoulders,Arnold Press,4,8,10,3
+Shoulders,Face Pulls,2,12,15,3
+Shoulders,Upright Rows,3,8,12,3
+Shoulders,Rear Delt Flyes,3,12,15,3
+Shoulders,Seated Dumbbell Press,4,8,12,3
+Biceps,Barbell Curl,3,8,12,3
+Biceps,Hammer Curl,2,12,15,3
+Biceps,Concentration Curl,3,10,12,3
+Biceps,Preacher Curl,3,10,12,3
+Biceps,Cable Curl,2,12,15,3
+Biceps,Zottman Curl,3,8,12,3
+Biceps,Incline Dumbbell Curl,3,8,10,3
+Triceps,Tricep Dips,3,8,12,4
+Triceps,Tricep Pushdown,2,12,15,3
+Triceps,Skull Crushers,3,10,12,3
+Triceps,Close-Grip Bench Press,4,8,10,3
+Triceps,Overhead Tricep Extension,3,10,12,3
+Triceps,Cable Tricep Kickbacks,2,12,15,3
+Abs,Plank,3,30,60,3
+Abs,Crunches,2,15,20,3
+Abs,Leg Raises,3,12,15,3
+Abs,Russian Twists,3,15,20,3
+Abs,Bicycle Crunches,2,15,20,3
+Abs,Hanging Leg Raises,4,10,15,3
+Abs,Ab Wheel Rollout,4,8,12,3
+Abs,Mountain Climbers,3,15,20,3
+Glutes,Hip Thrusts,4,8,12,4
+Glutes,Glute Bridges,3,12,15,3
+Glutes,Cable Kickbacks,3,10,12,3
+Glutes,Sumo Deadlift,4,5,8,3
+Glutes,Reverse Lunges,3,10,12,3
+Glutes,Frog Pumps,2,15,20,3
+Forearms,Wrist Curls,2,12,15,3
+Forearms,Reverse Wrist Curls,2,12,15,3
+Forearms,Farmer’s Walk,3,30,60,3
+Forearms,Plate Pinch,3,30,60,3
+Forearms,Reverse Grip Curl,3,10,12,3
+Full Body,Burpees,5,10,15,4
+Full Body,Kettlebell Swings,4,15,20,4
+Full Body,Clean and Press,5,5,8,4
+Full Body,Snatch,5,5,8,3
+Full Body,Thrusters,5,8,10,3
+Full Body,Wall Balls,4,10,15,4
+Full Body,Jump Squats,4,12,15,3
